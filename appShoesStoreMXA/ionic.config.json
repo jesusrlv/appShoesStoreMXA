@@ -1,0 +1,7 @@
+{
+  "name": "appShoesStoreMXA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
