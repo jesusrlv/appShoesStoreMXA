@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "appShoesStoreMXA",
+	"appId": "com.shoesstoremx.shoesstoremx",
+	"appName": "ShoesStoreMX",
 	"webDir": "www",
 	"bundledWebRuntime": false
 }

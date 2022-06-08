@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">appShoesStoreMXA</string>
-    <string name="title_activity_main">appShoesStoreMXA</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="app_name">ShoesStoreMX</string>
+    <string name="title_activity_main">ShoesStoreMX</string>
+    <string name="package_name">com.shoesstoremx.shoesstoremx</string>
+    <string name="custom_url_scheme">com.shoesstoremx.shoesstoremx</string>
 </resources>
